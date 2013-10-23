@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejemplo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_photo">Tomar una fotografía</string>
+    <string name="btn_update">Acceder a API</string>
+    <string name="msg_photo">¿desea continuar?</string>
+    <string name="msg_yes">Sí</string>
+    <string name="msg_no">No</string>
+    <string name="title_activity_camera">CameraActivity</string>
+	<string name="btn_from_gallery">Desde galería</string>
+	<string name="btn_from_camera">Desde Cámara</string>
+	<string name="btn_parse">Parse</string>
+	<string name="txt_notification_title">Carga de datos terminada</string>
+	<string name="txt_notification_subtitle">Haz click aquí para tomar fotos</string>
+</resources>
